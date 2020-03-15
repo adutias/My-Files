@@ -1,0 +1,11 @@
+let pricetag =30;
+let money =25;
+
+if (pricetag ==money){
+    console.log("purchase item");
+    }
+
+else {
+    console.log("do not purchse item");
+}
+
